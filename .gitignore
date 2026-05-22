@@ -1,4 +1,10 @@
+# Драйверы
+chromedriver.exe
+
+# Окружение и кэш
 .venv/
-.idea/
+.pytest_cache/
 __pycache__/
-*.pyc
+
+# Настройки PyCharm
+.idea/
